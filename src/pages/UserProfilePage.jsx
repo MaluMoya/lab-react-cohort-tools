@@ -1,3 +1,6 @@
+import {Routes, Route} from "react-router-dom";
+
+
 function UserProfilePage() {
   const userProfile = {
     image: "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/lab-cohort-tools-routing/profile-1.png",
